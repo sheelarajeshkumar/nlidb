@@ -1,0 +1,2 @@
+profiles:finance=ticker:fin_ticker
+profiles:management=ticker:mgt_ticker

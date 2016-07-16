@@ -1,0 +1,38 @@
+finance
+
+sno : None
+fin_ticker : what
+marketcap : what, how much
+e_value : what, how much
+ret_on_assets : how much, what
+tot_cash : what
+op_cash :what
+lev_free_cf :what
+tot_debt : what
+curr_ratio : what, how much
+gross_profit :what, how much
+prof_margin :what, how much
+
+
+management
+
+serialno : None
+mgt_ticker : what
+high_paid_emp : who, what
+high_pay : what
+
+
+profiles
+
+ticker : what
+name : what
+Address : where, what
+phonenum : what
+website : what
+Index_mem : what
+sector : what, which
+industry : what, which
+full_time : how many, what
+bus_summ : what
+
+

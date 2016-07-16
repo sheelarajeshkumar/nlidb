@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>NLIDB</title>
+	<style type="text/css">
+	input[type="submit"]{
+		background-color: #20C3E6;
+		color: white;
+		width: 35%;
+		font-size: 28px;
+		margin-left: 33%;
+		margin-top: 3%;
+	}
+	h1{
+		margin-left: 43%;
+		font-size: 60px;
+	}
+	#ser{
+		font-size:25px;
+		width: 60%;
+		height:30px;
+		margin-left: 20%;
+		margin-top: 3%;
+
+	}
+	</style>
+</head>
+<body>
+<h1>NLIDB</h1>
+<form method="POST" action="/cgi-bin/nlidb/nlidb.py">
+	<input type="text" name="search" id="ser">
+	<br>
+	<input type="submit" value="Search">
+</form>
+
+</body>
+</html>
